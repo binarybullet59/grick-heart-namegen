@@ -23,4 +23,4 @@ public class generateRandom{
         System.out.println("Random Doubles: "+rand_dub1); 
         System.out.println("Random Doubles: "+rand_dub2); 
     } 
-
+public static void main(string args[])
